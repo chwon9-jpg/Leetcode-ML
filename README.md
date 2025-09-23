@@ -1,2 +1,2 @@
-# Leetcode-ML
-Practice Leetcode problems, and ML mini-projects
+# ML_Algorithms
+ML Algorithms and mini-projects practice
